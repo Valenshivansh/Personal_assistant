@@ -15,7 +15,7 @@ Sparky is a lightweight, voice-based personal assistant app built in Java for An
 - ✅ Lightweight and responsive interface
 
 ---
-
+For making this open your personal github you can put your git hub link in the source code .
 ---
 
 ## 📦 Tech Stack
